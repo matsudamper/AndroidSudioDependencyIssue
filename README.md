@@ -1,5 +1,5 @@
 
-# Case1 firebase-bom
+# Case1 legacy-preference-v14
 - sub module has 'implementation("androidx.legacy:legacy-preference-v14:1.0.0")'
 
 ![image](https://user-images.githubusercontent.com/9250063/168795048-1b71b9c4-0088-434d-8bdc-ae92ef7b5f26.png)
